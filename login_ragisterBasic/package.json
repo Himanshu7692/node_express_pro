@@ -1,0 +1,23 @@
+{
+  "name": "login_ragisterbasic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "connect-mongo": "^5.0.0",
+    "ejs": "^3.1.9",
+    "express": "^5.0.0-alpha.8",
+    "mongoose": "^7.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
